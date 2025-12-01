@@ -44,9 +44,6 @@ since 2025.11.24 ~
 
 1. 브랜치 이름: weekXX/memberName   
     `예시: week01/jinyoung`
-2. 모든 코드는 PR로 제출
-3. 출제자는 자동 reviewer
-
 
 ### 커밋 메시지 규칙
 
