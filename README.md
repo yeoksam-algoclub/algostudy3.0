@@ -61,7 +61,7 @@ since 2025.11.24 ~
 | 02   | 2025-12-01  | 김호진   | [k개 트리 노드에서 사과를 최대로 수확하기](https://www.acmicpc.net/problem/25691) | [패턴 코드 진위](https://www.acmicpc.net/problem/16492) |
 | 03   | 2025-12-08  | 연상헌   | [치킨배달](https://www.acmicpc.net/problem/15686) | [전화번호 목록](https://www.acmicpc.net/problem/5052) |
 | 04   | 2025-12-15  | 이유안   | [열혈강호](http://acmicpc.net/problem/11375) | [구간 곱 구하기](https://www.acmicpc.net/problem/11505) *참고: [구간합구하기]( https://www.acmicpc.net/problem/2042)|
-| 05   | 2025-12-22  | 이현복   |                |                |
+| 05   | 2025-12-22  | 이현복   |   [테트리스 게임](https://www.acmicpc.net/problem/4920)|   [정상 회담 2](https://www.acmicpc.net/problem/1670)|
 | 06   | 2025-12-29  | 한지웅   |                |                |
 
 
