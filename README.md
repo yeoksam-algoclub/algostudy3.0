@@ -63,7 +63,7 @@ since 2025.11.24 ~
 | 04   | 2025-12-15  | 이유안   | [열혈강호](http://acmicpc.net/problem/11375) | [구간 곱 구하기](https://www.acmicpc.net/problem/11505) *참고: [구간합구하기]( https://www.acmicpc.net/problem/2042)|
 | 05   | 2025-12-22  | 이현복   |   [테트리스 게임](https://www.acmicpc.net/problem/4920)|   [정상 회담 2](https://www.acmicpc.net/problem/1670)|
 | 06   | 2025-12-29  | 정진영   |       [최소비용 구하기](https://www.acmicpc.net/problem/1916)         |       [신기한 소수](https://www.acmicpc.net/problem/2023)         |
-| 07   | 2025-01-05  | 정진영   |       [점수따먹기](https://www.acmicpc.net/problem/1749)         |       [문자열 폭발](https://www.acmicpc.net/problem/9935)         |
-| 08   | 2025-01-12  | 김호진   |       [폭발하는 공](https://www.acmicpc.net/problem/3141)         |       [마음대로 움직이기](https://www.acmicpc.net/problem/32150)         |
-
+| 07   | 2026-01-05  | 정진영   |       [점수따먹기](https://www.acmicpc.net/problem/1749)         |       [문자열 폭발](https://www.acmicpc.net/problem/9935)         |
+| 08   | 2026-01-12  | 김호진   |       [폭발하는 공](https://www.acmicpc.net/problem/3141)         |       [마음대로 움직이기](https://www.acmicpc.net/problem/32150)         |
+| 09   | 2026-01-19  | 연상헌   |       [전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)         |       [PPAP](https://www.acmicpc.net/problem/16120)         |
   
