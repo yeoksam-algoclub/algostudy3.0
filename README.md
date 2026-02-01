@@ -67,4 +67,4 @@ since 2025.11.24 ~
 | 08   | 2026-01-12  | 김호진   |       [폭발하는 공](https://www.acmicpc.net/problem/3141)         |       [마음대로 움직이기](https://www.acmicpc.net/problem/32150)         |
 | 09   | 2026-01-19  | 연상헌   |       [전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)         |       [PPAP](https://www.acmicpc.net/problem/16120)         |
 | 10   | 2026-01-26  | 이유안   |       [MooTube (Silver)](https://www.acmicpc.net/problem/15591)         |       [새로운 게임 2](https://www.acmicpc.net/problem/17837)         |
-  
+| 11   | 2026-02-02  | 이현복   |       [로봇 조종하기](https://www.acmicpc.net/problem/2169)         |       [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)         |
